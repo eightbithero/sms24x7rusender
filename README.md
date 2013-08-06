@@ -27,8 +27,8 @@ After successful setup, the script will try to send messages thru sms24x7.ru ser
 
 Here's an example:
 ```
-$ ./smssend.sh "message" "login" "password" "[phone]"
-$ ./smssend.sh "message" "login" "password" "[phone1,phone2,phoneN]"
+$ ./sms24x7rusender.sh "message" "login" "password" "[phone]"
+$ ./sms24x7rusender.sh "message" "login" "password" "[phone1,phone2,phoneN]"
 ```
 
 <h3>Setup</h3>
